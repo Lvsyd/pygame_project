@@ -1,6 +1,8 @@
 import pygame
 import math
 
+
+
 class Entity:
     def __init__(self, x, y, char, name):
         self.x = x
